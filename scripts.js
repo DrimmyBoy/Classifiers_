@@ -4,7 +4,7 @@
 //     Leave "" to type the link in the page's Settings instead.
 // =====================================================================
 const DEFAULT_SOUND_URL = "https://teachablemachine.withgoogle.com/models/pWNhJfmgw/";   // your AUDIO project link
-const DEFAULT_IMAGE_URL = "https://teachablemachine.withgoogle.com/models/fqBXbw-LP/";   // your IMAGE project link
+const DEFAULT_IMAGE_URL = "https://teachablemachine.withgoogle.com/models/aE5Qn5Tg8/";   // your IMAGE project link
 // =====================================================================
 //  2) PICTURES: put one picture per class inside an "images" folder, named after the class
 //     in lowercase (spaces become hyphens). Class "Dog" -> images/dog.jpg  (.jpg .jpeg .png .webp)
